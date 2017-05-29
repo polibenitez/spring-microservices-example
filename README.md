@@ -1,4 +1,4 @@
-# Spring microservices example [![Build Status](https://travis-ci.org/zadik/spring-microservices-example.svg?branch=master)
+# Spring microservices example ![Build Status](https://travis-ci.org/zadik/spring-microservices-example.svg?branch=master)
  Example of microservices using Spring Boot and Docker
 
 Comands to run the example.
